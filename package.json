@@ -1,17 +1,24 @@
 {
-  "name": "youtube",
+  "name": "Youtube",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "dependencies": {
-    "bootstrap": "^5.2.3",
-    "lodash": "^4.17.21",
-    "npm": "^9.4.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Facunchos/FreeCodeYoutubeNode.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Facunchos/FreeCodeYoutubeNode/issues"
+  },
+  "homepage": "https://github.com/Facunchos/FreeCodeYoutubeNode#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
 }
